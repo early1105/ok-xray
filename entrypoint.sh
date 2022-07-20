@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UUID=f0670508-ad33-4eb7-a9d4-6b331259647e
+UUID=aff4b744-5b98-48f8-af71-7b1874a71e71
 WSPATH=/app
 PORT=80
 
